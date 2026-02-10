@@ -1,3 +1,5 @@
+# Andy Mudenda, 2209497131
+
 # SoundWave - Modern Music Blog
 
 A cutting-edge music discovery platform designed to explore the latest beats, artists, and trends in the music world. SoundWave combines a sleek glassmorphic design with powerful music features.
@@ -161,3 +163,4 @@ SoundWave is built with passion for those who believe that music is life. Whethe
 **Version**: 1.0  
 **Last Updated**: February 2026  
 **Status**: Active
+
